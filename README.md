@@ -1,13 +1,14 @@
 # <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Sudharsan+M+S;Aspiring+AI+Developer;Computer+Science+Engineering+Student;Always+Learning+Something+New" />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/
 <div align="center">
 
 # 👋 Hi, I'm Sudharsan M S
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Aspiring+AI+Developer;Computer+Science+Engineering+Student;Building+Projects+with+Python;Always+Learning+Something+New" />
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
 </div>
 
